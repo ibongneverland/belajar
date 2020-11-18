@@ -1,0 +1,6 @@
+Tutorial ini untuk install q4os linux 32bit di laptop HP mini 311.
+
+Persiapan
+1. Laptop HP mini 311 32bit RAM 1GB
+2. File ISO q4os
+
