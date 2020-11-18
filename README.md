@@ -1,2 +1,1 @@
-# belajar
-untuk belajar git boss
+# Tutorial dan Latihan
