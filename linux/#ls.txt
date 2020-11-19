@@ -1,2 +1,0 @@
-1. Install q4os 181120201
-2. Hapus repository 181120202

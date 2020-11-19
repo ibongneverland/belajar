@@ -1,0 +1,3 @@
+linux
+Install q4os 181120201
+Hapus repository 181120202
