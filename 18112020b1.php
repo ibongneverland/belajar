@@ -3,8 +3,8 @@
 echo "Tutorial ini untuk install q4os linux 32bit di laptop HP mini 311.<br><br>
 Persiapan<br>
 1. Laptop HP mini 311 32bit RAM 1GB<br>
-2. File ISO q4os //peringatan: beda versi kemungkinan akan beda alur. Versi saat pembuatan tutorial ini adalah versi 3.12 (Centaurus)<br>
-Proses<br><br>
+2. File ISO q4os //peringatan: beda versi kemungkinan akan beda alur. Versi saat pembuatan tutorial ini adalah versi 3.12 (Centaurus)<br><br>
+Proses<br>
 1. Burn ISO ke flash disk dengan balenaEtcher<br>
 2. Boot Laptop dengan klik Esc saat laptop booting<br>
 3. Klik F9<br>
