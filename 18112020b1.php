@@ -1,3 +1,5 @@
+<?php>
+
 Tutorial ini untuk install q4os linux 32bit di laptop HP mini 311.
 
 Persiapan
@@ -18,3 +20,4 @@ Proses
 11. sudo apt install kde-plasma-desktop
 12. sudo apt install 
 
+</php>
